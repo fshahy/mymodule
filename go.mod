@@ -1,4 +1,4 @@
-module github.com/mymodule
+module github.com/fshahy/mymodule
 
 go 1.12
 

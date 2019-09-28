@@ -1,4 +1,4 @@
-package hello
+package mymodule
 
 import "testing"
 
